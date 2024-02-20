@@ -1,5 +1,5 @@
 import openai
-openai.api_key='sk-ohjp56bFBhoVoj3cc9ry2RUIjT3BlbkFJHKuuLPRc2t8757ksiRXE'
+openai.api_key='Example..sk-ohjp56bFBhoVoj3cc9ry2RUIjT3BlbkFJHKuuLPRc2t8757ksiRXE'## Use your own Apis keys ##
 
 def Senitement_analysis(text):
     messages=[
